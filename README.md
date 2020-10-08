@@ -1,6 +1,3 @@
 # Knowledge Graph
 
-Build a knowledge graph from text data to display various relations between the entities. The tasks include:
-* Sentence Segmentation
-* Entities Extraction
-* Relations Extraction
+Services to extract the relation between businesses from financial documents using spaCy to create an industrial scale knowledge graph.
