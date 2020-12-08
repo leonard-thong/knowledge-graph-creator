@@ -1,3 +1,3 @@
 # Financial Knowledge Graph
 
-Services to extract the relation between businesses from financial documents using spaCy to create an industrial scale knowledge graph.
+Services to extract the relation between entities from text documents using spaCy to create a knowledge graph.
