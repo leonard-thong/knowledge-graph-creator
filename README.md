@@ -1,3 +1,3 @@
-# Financial Knowledge Graph
+# Knowledge Graph
 
-Algorithms that extract the relationships between business entities from text documents using the spaCy library to create a knowledge graph.
+Algorithms that extract the relationships between entities from text documents using the spaCy library to create a knowledge graph.
