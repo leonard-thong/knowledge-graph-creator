@@ -1,6 +1,3 @@
-# Knowledge Graph
+# Graph Creator
 
-Build a knowledge graph from text data to display various relations between the entities. The tasks include:
-* Sentence Segmentation
-* Entities Extraction
-* Relations Extraction
+Algorithms that extract the relationships between entities from text documents using the spaCy library to create a knowledge graph.
